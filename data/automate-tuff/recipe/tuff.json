@@ -1,0 +1,8 @@
+{
+  "type": "create:mixing",
+  "ingredients": [{ "item": "minecraft:andesite"},
+    { "item": "minecraft:cobblestone"},
+    { "fluid": "minecraft:lava", "amount": 4050 }
+  ],
+  "results": [{"item": "minecraft:tuff"}]
+}

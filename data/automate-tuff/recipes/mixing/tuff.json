@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 50,
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:tuff"
+    }
+  ]
+}
